@@ -1,0 +1,25 @@
+{
+    "name": "got/stark",
+    "description": "A message queue-based PHP daemon",
+    "keywords": ["daemon", "PHP", "queue"],
+    "homepage": "https://github.com/pythias/Stark",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4",
+        "monolog/monolog": "*",
+        "ext-pcntl": "*",
+        "ext-posix": "*",
+        "ext-sockets": "*"
+    },
+    "autoload": {
+        "psr-4": {"Stark\\": "src/Stark"}
+    },
+    "bin": ["bin/stark"],
+    "authors": [
+        {
+            "name" : "Chenjie",
+            "email": "pythias@gmail.com"
+        }
+    ]
+}

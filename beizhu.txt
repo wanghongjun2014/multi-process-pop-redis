@@ -1,0 +1,7 @@
+status的报文结构
+
+[0] => status
+[1] => 0
+[2] => 27875
+[3] => 0
+[4] => {"lastActiveTime":1520504347.3663,"totalCount":8,"totalTime":40.004421234131,"totalQPS":0.19997789627249,"memory":1310720}
