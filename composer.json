@@ -2,7 +2,7 @@
     "name": "got/stark",
     "description": "A message queue-based PHP daemon",
     "keywords": ["daemon", "PHP", "queue"],
-    "homepage": "https://github.com/pythias/Stark",
+    "homepage": "https://wanghongjun2014.github.io",
     "type": "library",
     "license": "MIT",
     "require": {
@@ -18,8 +18,8 @@
     "bin": ["bin/stark"],
     "authors": [
         {
-            "name" : "Chenjie",
-            "email": "pythias@gmail.com"
+            "name" : "wanghongjun",
+            "email": "wanghongjun2014@163.com"
         }
     ]
 }
